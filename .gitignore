@@ -1,0 +1,86 @@
+# Maven
+/target/
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+/.settings/
+.classpath
+.project
+
+# NetBeans
+/build/
+/nbproject/private/
+/nbproject/Makefile-*.mk
+/nbproject/*.mk
+/nbproject/*.xml
+
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Test coverage
+coverage/
+*.lcov
+
+# Temporary files
+*.tmp
+*.temp
+.cache
+
+# Log files
+logs/
+*.log
+
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Gradle
+/build/
+.gradle/
+gradle-app.setting
+
+# Optional Maven repository cache
+.maven/
+
+# Optional Gradle cache
+.gradle/
+
+# Optional Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+
+# Optional Maven wrapper
+!mvnw
+!mvnw.cmd
+
+# Spring Boot
+Spring-Boot-App.properties
+
+# Local application properties
+application-*.properties
+application-*.yml
